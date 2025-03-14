@@ -1,4 +1,4 @@
-# Ship Fuel Efficiency and CO₂ Emissions Optimization
+# Ship Fuel Consumption and CO₂ Emissions Model Optimization
 
 ## Project Overview
 The maritime industry is a significant contributor to global fuel consumption and CO₂ emissions. Optimizing fuel usage can lead to cost savings and reduced environmental impact. This project leverages machine learning to predict fuel consumption based on ship attributes, route details, and weather conditions. The best-performing model is deployed as a web application for real-time predictions.
